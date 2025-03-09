@@ -1,6 +1,6 @@
 # Python Template
 
-An opinionated starter project for flask python projects. It contains code for a new [Flask Blueprint]https://flask.palletsprojects.com/en/stable/blueprints/).
+An opinionated starter project for flask python projects. It contains code for a new [Flask Blueprint](https://flask.palletsprojects.com/en/stable/blueprints/).
 
 **DO NOT PUSH PROJECT-SPECIFIC CHANGES**
 
