@@ -50,6 +50,8 @@ An opinionated starter project for flask python projects. It contains code for a
 
 4. RENAME ALL `blueprintname` strings to what your blueprint is
 
+5. rename repo field in .build.yml
+
 3. To start development, run the following:
     ```bash
     (.venv)$ flask --debug run
